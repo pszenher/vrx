@@ -22,7 +22,7 @@
         <scene>scene</scene>
         <ambient_light>0.4 0.4 0.4</ambient_light>
         <background_color>0.8 0.8 0.8</background_color>
-        <camera_pose>-460.0 238.0 23.0 0 1.0 3.0</camera_pose>
+        <camera_pose>-448.7194 234.3858 46.0697 0 1.0 3.0</camera_pose>
         <camera_clip>
           <near>0.25</near>
           <far>10000</far>
@@ -293,8 +293,8 @@
       name="gz::sim::systems::ForceTorque">
     </plugin>
     <plugin
-      filename="gz-sim-particle-emitter-system"
-      name="gz::sim::systems::ParticleEmitter">
+      filename="gz-sim-particle-emitter2-system"
+      name="gz::sim::systems::ParticleEmitter2">
     </plugin>
     <plugin
       filename="gz-sim-scene-broadcaster-system"
@@ -342,7 +342,7 @@
     </light>
 
     <include>
-      <pose>0 0 0.2 0 0 0 </pose>
+      <pose> 0 0 0.2 0 0 0 </pose>
       <uri>https://fuel.gazebosim.org/1.0/openrobotics/models/sydney_regatta</uri>
     </include>
 
@@ -598,7 +598,7 @@
       <update_rate>10</update_rate>
       <topic_wind_speed>/vrx/debug/wind/speed</topic_wind_speed>
       <topic_wind_direction>/vrx/debug/wind/direction</topic_wind_direction>
-    </plugin>
+     </plugin>
 
     <!-- The wave field -->
     <plugin filename="libPublisherPlugin.so" name="vrx::PublisherPlugin">
