@@ -150,10 +150,10 @@
           <specular>1.0 1.0 1.0</specular>
           <pbr>
             <metal>
-              <albedo_map>model://vrx_gazebo/models/3d_lidar/mesh/3d_Lidar_Albedo.png</albedo_map>
-              <normal_map>model://vrx_gazebo/models/3d_lidar/mesh/3d_Lidar_Normal.png</normal_map>
-              <roughness_map>model://vrx_gazebo/models/3d_lidar/mesh/3d_Lidar_Roughness.png</roughness_map>
-              <metalness_map>model://vrx_gazebo/models/3d_lidar/mesh/3d_Lidar_Metalness.png</metalness_map>
+              <albedo_map>model://3d_lidar/mesh/3d_Lidar_Albedo.png</albedo_map>
+              <normal_map>model://3d_lidar/mesh/3d_Lidar_Normal.png</normal_map>
+              <roughness_map>model://3d_lidar/mesh/3d_Lidar_Roughness.png</roughness_map>
+              <metalness_map>model://3d_lidar/mesh/3d_Lidar_Metalness.png</metalness_map>
             </metal>
           </pbr>
         </material>

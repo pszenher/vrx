@@ -134,10 +134,10 @@
         <specular>1.0 1.0 1.0</specular>
         <pbr>
           <metal>
-            <albedo_map>model://wamv_description/models/WAM-V-Base/mesh/WAM-V_Albedo.png</albedo_map>
-            <normal_map>model://wamv_description/models/WAM-V-Base/mesh/WAM-V_Normal.png</normal_map>
-            <roughness_map>model://wamv_description/models/WAM-V-Base/mesh/WAM-V_Roughness.png</roughness_map>
-            <metalness_map>model://wamv_description/models/WAM-V-Base/mesh/WAM-V_Metalness.png</metalness_map>
+            <albedo_map>model://WAM-V-Base/mesh/WAM-V_Albedo.png</albedo_map>
+            <normal_map>model://WAM-V-Base/mesh/WAM-V_Normal.png</normal_map>
+            <roughness_map>model://WAM-V-Base/mesh/WAM-V_Roughness.png</roughness_map>
+            <metalness_map>model://WAM-V-Base/mesh/WAM-V_Metalness.png</metalness_map>
           </metal>
         </pbr>
       </material>

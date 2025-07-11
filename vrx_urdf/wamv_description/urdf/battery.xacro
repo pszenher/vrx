@@ -39,10 +39,10 @@
           <specular>1.0 1.0 1.0</specular>
           <pbr>
             <metal>
-              <albedo_map>model://vrx_gazebo/models/battery/mesh/battery_Albedo.png</albedo_map>
-              <normal_map>model://vrx_gazebo/models/battery/mesh/battery_Normal.png</normal_map>
-              <roughness_map>model://vrx_gazebo/models/battery/mesh/battery_Roughness.png</roughness_map>
-              <metalness_map>model://vrx_gazebo/models/battery/mesh/battery_Metalness.png</metalness_map>
+              <albedo_map>model://battery/mesh/battery_Albedo.png</albedo_map>
+              <normal_map>model://battery/mesh/battery_Normal.png</normal_map>
+              <roughness_map>model://battery/mesh/battery_Roughness.png</roughness_map>
+              <metalness_map>model://battery/mesh/battery_Metalness.png</metalness_map>
             </metal>
           </pbr>
         </material>

@@ -44,10 +44,10 @@
         <specular>1.0 1.0 1.0</specular>
         <pbr>
           <metal>
-            <albedo_map>model://vrx_gazebo/models/cpu_cases/mesh/cpu_cases_Albedo.png</albedo_map>
-            <normal_map>model://vrx_gazebo/models/cpu_cases/mesh/cpu_cases_Normal.png</normal_map>
-            <roughness_map>model://vrx_gazebo/models/cpu_cases/mesh/cpu_cases_Roughness.png</roughness_map>
-            <metalness_map>model://vrx_gazebo/models/cpu_cases/mesh/cpu_cases_Metalness.png</metalness_map>
+            <albedo_map>model://cpu_cases/mesh/cpu_cases_Albedo.png</albedo_map>
+            <normal_map>model://cpu_cases/mesh/cpu_cases_Normal.png</normal_map>
+            <roughness_map>model://cpu_cases/mesh/cpu_cases_Roughness.png</roughness_map>
+            <metalness_map>model://cpu_cases/mesh/cpu_cases_Metalness.png</metalness_map>
           </metal>
         </pbr>
       </material>

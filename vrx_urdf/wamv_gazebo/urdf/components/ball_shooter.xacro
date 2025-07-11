@@ -69,10 +69,10 @@
           <specular>1.0 1.0 1.0</specular>
           <pbr>
             <metal>
-              <albedo_map>model://vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Albedo.png</albedo_map>
-              <normal_map>model://vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Normal.png</normal_map>
-              <roughness_map>model://vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Roughness.png</roughness_map>
-              <metalness_map>model://vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Metalness.png</metalness_map>
+              <albedo_map>model://ball_shooter/materials/Textures/Launcher_Albedo.png</albedo_map>
+              <normal_map>model://ball_shooter/materials/Textures/Launcher_Normal.png</normal_map>
+              <roughness_map>model://ball_shooter/materials/Textures/Launcher_Roughness.png</roughness_map>
+              <metalness_map>model://ball_shooter/materials/Textures/Launcher_Metalness.png</metalness_map>
             </metal>
           </pbr>
         </material>
@@ -86,10 +86,10 @@
           <specular>1.0 1.0 1.0</specular>
           <pbr>
             <metal>
-              <albedo_map>model://vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Albedo.png</albedo_map>
-              <normal_map>model://vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Normal.png</normal_map>
-              <roughness_map>model://vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Roughness.png</roughness_map>
-              <metalness_map>model://vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Metalness.png</metalness_map>
+              <albedo_map>model://ball_shooter/materials/Textures/Launcher_Albedo.png</albedo_map>
+              <normal_map>model://ball_shooter/materials/Textures/Launcher_Normal.png</normal_map>
+              <roughness_map>model://ball_shooter/materials/Textures/Launcher_Roughness.png</roughness_map>
+              <metalness_map>model://ball_shooter/materials/Textures/Launcher_Metalness.png</metalness_map>
             </metal>
           </pbr>
         </material>
